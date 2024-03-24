@@ -1,8 +1,5 @@
 #!/bin/bash
 
-## v0.2
-## cometbft. add timeout.
-
 source $HOME/.bash_profile
 
 BOT_TOKEN='****'
