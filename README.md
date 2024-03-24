@@ -10,6 +10,8 @@ The following conditions are controlled:
 - position in the active set of validators
 - validator status
 - number of missed blocks
+
+
 An example of messages sent in Telegram. The screenshot shows one of the updates during the testnet. But in general, the meaning of what the bot is doing should be clear
 
 ![namada bot](https://github.com/SNSMLN/namada-SE---class-S---Build-a-open-source-tool/assets/76874974/d868840e-3773-4f88-b368-7cca39e66d40)
