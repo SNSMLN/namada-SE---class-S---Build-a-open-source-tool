@@ -22,7 +22,7 @@ To do the same, you need to create a channel in Telegram. A channel can be creat
 Create a bot in Telegram, as written here https://core.telegram.org/bots#6-botfather
 Add our bot to the channel and get the channel ID, as written here https://gist.github.com/dideler/85de4d64f66c1966788c1b2304b9caf1
 
-Download the check.sh script from this repository. Place it in any convenient place on the server. My folder is /root/auto/
+Download the check.sh script from this repository https://github.com/SNSMLN/namada-SE---class-S---Build-a-open-source-tool/blob/main/check.sh. Place it in any convenient place on the server. My folder is /root/auto/
 Inside the check.sh script, change the BOT_TOKEN and CHANNEL_ID variables.
 After that, add the check.sh script to crontab. I call every 2 minutes. To avoid accidentally running two copies of the script. Since the script runs for almost 1 minute.
 
