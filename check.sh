@@ -75,16 +75,6 @@ for (( i=$BLOCK_HEIGHT; i>$BLOCK_HEIGHT-50 ; i-- )); do
     fi
 done
 
-##
-echo DAEMON_STATUS $DAEMON_STATUS ;
-echo VERSION $VERSION ;
-echo BLOCK_HEIGHT $BLOCK_HEIGHT ;
-echo PEERS $PEERS ;
-echo VOTING_POWER $VOTING_POWER ;
-echo POSITION $POSITION ;
-echo STATUS_CURRENT $STATUS_CURRENT ;
-echo MISSED_BLOCKS $MISSED_BLOCKS ;
-
 
 ##Calculate current block hight increase
 ##BLOCK_HEIGHT=56179
